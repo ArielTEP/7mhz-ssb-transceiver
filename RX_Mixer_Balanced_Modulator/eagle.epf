@@ -317,7 +317,6 @@ UsedLibrary="C:/Program Files/EAGLE-5.7.0/lbr/xilinx-xc18v.lbr"
 UsedLibrary="C:/Program Files/EAGLE-5.7.0/lbr/xilinx-xcv.lbr"
 UsedLibrary="C:/Program Files/EAGLE-5.7.0/lbr/zetex.lbr"
 UsedLibrary="C:/Program Files/EAGLE-5.7.0/lbr/zilog.lbr"
-UsedLibrary="D:/Projects/eagle/7MHz_tcvr/lbr/MC1496.lbr"
 
 [Win_1]
 Type="Control Panel"
