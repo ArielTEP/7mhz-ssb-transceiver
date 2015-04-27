@@ -1,0 +1,1 @@
+Schematic and PCB design in Eagle format for 7MHz SSB Transceiver. Link: http://flashwebhost.com/tcvr
